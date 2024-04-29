@@ -1,7 +1,14 @@
 # What is this?
 11111111111111111
-The github.dev web-based editor is a lightweight editing experience that runs entirely in your browser. You can navigate files and source code repositories from GitHub, and make and commit code changes.
+pastes.sh
 
+https://cdn.jsdelivr.net/gh/wardmon/dev/README.md
+
+https://github.dev/wardmon/dev/blob/435f2a9b98d1734cc9c038c00d0e064f71ab4c8e/README.md
+[md](https://github.com/wardmon/dev/blob/435f2a9b98d1734cc9c038c00d0e064f71ab4c8e/README.md)
+https://github.com/wardmon/dev/blob/435f2a9b98d1734cc9c038c00d0e064f71ab4c8e/README.md
+The github.dev web-based editor is a lightweight editing experience that runs entirely in your browser. You can navigate files and source code repositories from GitHub, and make and commit code changes.
+blob:https://github.dev/205f9be9-9cfa-4205-a35a-2c5f4fac34a9
 There are two ways to go directly to a VS Code environment in your browser and start coding:
 
 * Press the . key on any repository or pull request.
