@@ -1,7 +1,7 @@
 # What is this?
 <details>
 
-<summary>11111111111111Tips for collapsed sections</summary>
+<summary>######## 11111111111111Tips for collapsed sections</summary>
 
 ### You can add a header
 
@@ -13,12 +13,12 @@ You can add an image or a code block, too.
    puts "Hello World"
 ```
 <details>
-<summary>aaaaaaaaaaaTips for collapsed sections</summary>
+<summary>###### aaaaaaaaaaaTips for collapsed sections</summary>
 ### You can add a header
 aaaaaaaaaaaaa
 </details>
 <details>
-<summary>bbbbbbbbbbb for collapsed sections</summary>
+<summary>###### bbbbbbbbbbb for collapsed sections</summary>
 ### You can add a header
 bbbbbbbbbbbbbbbbb
 </details>
