@@ -1,5 +1,5 @@
 # What is this?
-######## 11111111111111
+## 11111111111111
 <details>
 
 <summary> Tips for collapsed sections</summary>
@@ -14,7 +14,7 @@ You can add an image or a code block, too.
    puts "Hello World"
 ```
 
-###### aaaaaaaaaaa
+### aaaaaaaaaaa
 <details>   
 <summary>Tips for collapsed sections</summary>
 ### You can add a header
