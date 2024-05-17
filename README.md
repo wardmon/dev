@@ -1,7 +1,7 @@
 # What is this?
 <details>
 
-<summary>Tips for collapsed sections</summary>
+<summary>11111111111111Tips for collapsed sections</summary>
 
 ### You can add a header
 
@@ -12,7 +12,15 @@ You can add an image or a code block, too.
 ```ruby
    puts "Hello World"
 ```
+<details>
 
+<summary>aaaaaaaaaaaTips for collapsed sections</summary>
+
+### You can add a header
+
+aaaaaaaaaaaaa
+
+</details>
 </details>
 pastes.sh
 
