@@ -1,7 +1,8 @@
 # What is this?
+######## 11111111111111
 <details>
 
-<summary> ######## 11111111111111Tips for collapsed sections</summary>
+<summary> Tips for collapsed sections</summary>
 
 ### You can add a header
 
@@ -12,13 +13,16 @@ You can add an image or a code block, too.
 ```ruby
    puts "Hello World"
 ```
-<details>
-<summary>###### aaaaaaaaaaaTips for collapsed sections</summary>
+
+###### aaaaaaaaaaa
+<details>   
+<summary>Tips for collapsed sections</summary>
 ### You can add a header
 aaaaaaaaaaaaa
 </details>
+###### bbbbbbbbbbb
 <details>
-<summary>###### bbbbbbbbbbb for collapsed sections</summary>
+<summary> for collapsed sections</summary>
 ### You can add a header
 bbbbbbbbbbbbbbbbb
 </details>
