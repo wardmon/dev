@@ -1,7 +1,7 @@
 # What is this?
 <details>
 
-<summary>######## 11111111111111Tips for collapsed sections</summary>
+<summary> ######## 11111111111111Tips for collapsed sections</summary>
 
 ### You can add a header
 
